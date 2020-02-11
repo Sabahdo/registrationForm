@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">registrationForm</string>
+    <string name="str_tv_title">Register</string>
+    <string name="str_et_username">Username</string>
+    <string name="str_et_Pass">Password</string>
+    <string name="str_tv_gender">Gender</string>
+    <string name="str_rb_female">Female</string>
+    <string name="str_rb_male">Male</string>
+    <string name="str_rb_other">Other</string>
+    <string name="str_sw_agree"> I agree to the terms of Services</string>
+    <string name="str_btn_confirm">confirm</string>
+</resources>
